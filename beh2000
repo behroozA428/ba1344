@@ -113,7 +113,7 @@ pycache/release
 # backwards compatibility for past contributors
 .husky
 /release.
-*log
+*
 # VSCode
 .vscode/launch.json
 packages/protocol/config.js
