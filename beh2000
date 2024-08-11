@@ -112,7 +112,6 @@ pycache/release
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors
 .husky
-/rel
 
 # VSCode
 .vscode/launch.json
